@@ -1,0 +1,442 @@
+
+body{
+    background-color: #1b212ffa;
+
+}
+
+/* Nav bar start */
+.navbar{
+    background-color: #1b212f;
+    color: white;
+
+}
+
+
+.nav-link:hover{
+color: #1b212f !important;
+background: rgb(255, 255, 255);
+border-radius: 1px;
+
+}
+/* Nav bar end */
+
+/* ################################# */
+
+/* section 1 start  */
+
+
+
+
+
+/* ################################# */
+
+.sec-2{
+    background-image: url(../images/bg-curvy-desktop.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+
+/* ################################# */
+
+.sec-3{
+    background-color: #181f2b;
+    padding-top: 3px;
+}
+/* ################################# */
+
+
+.sec-4{
+    background-color: #181f2b;
+}
+
+.sec-4-img{
+    width: 100%;
+}
+
+.sec-4-h1{
+    font-size: 45px;
+}
+.sec-4-a{
+    color: #62e0d9;
+}
+/* ################################# */
+
+.sec-5{
+    background-color: #181f2b;
+}
+
+
+.sec-5-card-info{
+margin-left: 10px;
+padding-top:14px
+}
+
+.sec-5-card-1{
+    background-color: #1f2533;
+}
+.sec-5-card-2{
+    background-color: #1f2533;
+
+}
+.sec-5-card-3{
+    background-color: #1f2533;
+
+}
+
+
+.sec-5-h5{
+font-size: 15px;
+}
+.sec-5-p{
+    font-size: 10px;
+
+}
+
+/* ######################### */
+footer{
+    background-color: #151e2b;
+}
+
+
+footer div li {
+    list-style: none;
+}
+footer div li a{
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.go-home{
+    opacity: 0;
+    width: 50px;
+    text-align: center;
+    height: 50px;
+    bottom: 2px;
+    right: 20px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+/* ######################### */
+@media(max-width : 1930px){
+
+
+
+
+}
+
+
+@media (max-width : 1400px) {
+
+
+
+
+}
+
+
+
+@media (max-width : 992px) {
+    
+
+
+
+}
+
+
+
+
+@media (max-width : 768px) {
+
+    .sec-1-img{
+        width: 100%;
+    }
+    /* ############### */
+    .sec-2{
+        background-image: url(../images/bg-curvy-mobile.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+    }
+    /* ############## */
+    .sec-3-div-1{
+        width: 100%;
+        
+    }
+    .sec-3-div-2{
+        width: 100%;
+        
+    }
+    .sec-3-div-3{
+        width: 100%;
+        
+    }
+    .sec-3-div-4{
+        width: 100%;
+        
+    }
+    /* ################### */
+    .sec-5-profile{
+        width: 75px;
+    }
+    .sec-5-card-1{
+        width: 80%;
+        margin-left: 10%;
+        text-align: center;
+    }
+    .sec-5-card-2{
+        width: 80%;
+        margin-left: 10%;
+        text-align: center;
+    }
+    .sec-5-card-3{
+        width: 80%;
+        margin-left: 10%;
+        text-align: center;
+    }
+    /* ############### */
+
+    .sec-6{
+        width: 80%;
+        margin-left: 10%;
+    }
+    /* ############# */
+    .footer-col-1{
+        text-align: center;
+        margin-bottom: 0px !important;
+    }
+    .footer-col-2{
+        margin-top: 0px !important;
+        margin-bottom: 10px !important;
+
+    }
+    .footer-col-3{
+        margin-top: 0px !important;
+        margin-bottom: 0px !important;
+
+    }
+    .footer-col-4{
+        margin-top: 0px !important;
+        margin-bottom: 18px !important;
+
+    }
+    .footer-col-5{
+        margin-top: 0px !important;
+        margin-bottom: 10px !important;
+    }
+
+
+
+}
+
+
+
+@media (max-width : 576px) {
+    
+    .sec-1-img{
+        width: 100%;
+    }
+    /* ################# */
+    .sec-3-div-1{
+        width: 80%;
+        
+    }
+    .sec-3-div-2{
+        width: 80%;
+        
+    }
+    .sec-3-div-3{
+        width: 80%;
+        
+    }
+    .sec-3-div-4{
+        width: 80%;
+        
+    }
+    /* ########### */
+    .sec-4-h1{
+        font-size: 35px;
+    }
+    /* ################ */
+    .sec-5-profile{
+        width: 75px;
+    }
+    .sec-5-card-1{
+        width: 80%;
+        margin-left: 10%;
+        text-align: center;
+    }
+    .sec-5-card-2{
+        width: 80%;
+        margin-left: 10%;
+        text-align: center;
+    }
+    .sec-5-card-3{
+        width: 80%;
+        margin-left: 10%;
+        text-align: center;
+    }
+    /* ############ */
+    .footer-col-1{
+        text-align: center;
+        margin-bottom: 0px !important;
+    }
+    .footer-col-2{
+        margin-top: 0px !important;
+        margin-bottom: 10px !important;
+
+    }
+    .footer-col-3{
+        margin-top: 0px !important;
+        margin-bottom: 0px !important;
+
+    }
+    .footer-col-4{
+        margin-top: 0px !important;
+        margin-bottom: 18px !important;
+
+    }
+    .footer-col-5{
+        margin-top: 0px !important;
+        margin-bottom: 10px !important;
+    }
+    /* ################# */
+    .go-home{ 
+    right: 13px;
+    bottom: -2px;
+    }
+
+}
+
+
+
+
+
+
+
+@media (max-width : 395px) {
+
+
+    .sec-1-img{
+        width: 100%;
+    }
+    /* ################# */
+    .sec-3-div-1{
+        width: 80%;
+        
+    }
+    .sec-3-div-2{
+        width: 80%;
+        
+    }
+    .sec-3-div-3{
+        width: 80%;
+        
+    }
+    .sec-3-div-4{
+        width: 80%;
+        
+    }
+    /* ########### */
+    .sec-4-h1{
+        font-size: 35px;
+    }
+    /* ################ */
+    .sec-5-profile{
+        width: 75px;
+    }
+    .sec-5-card-1{
+        width: 80%;
+        margin-left: 10%;
+        text-align: center;
+    }
+    .sec-5-card-2{
+        width: 80%;
+        margin-left: 10%;
+        text-align: center;
+    }
+    .sec-5-card-3{
+        width: 80%;
+        margin-left: 10%;
+        text-align: center;
+    }
+    /* ############ */
+    .footer-col-1{
+        text-align: center;
+        margin-bottom: 0px !important;
+    }
+    .footer-col-2{
+        margin-top: 0px !important;
+        margin-bottom: 10px !important;
+
+    }
+    .footer-col-3{
+        margin-top: 0px !important;
+        margin-bottom: 0px !important;
+
+    }
+    .footer-col-4{
+        margin-top: 0px !important;
+        margin-bottom: 18px !important;
+
+    }
+    .footer-col-5{
+        margin-top: 0px !important;
+        margin-bottom: 10px !important;
+    }
+    /* ################# */
+    .go-home{ 
+    right: 13px;
+    bottom: -2px;
+    }
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
